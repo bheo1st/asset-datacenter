@@ -34,3 +34,14 @@ ERROR - 2022-05-20 03:48:13 --> Severity: Notice --> Undefined variable: listLok
 ERROR - 2022-05-20 03:48:13 --> Severity: Warning --> Invalid argument supplied for foreach() /application/application/modules/rpt/views/v_infra.php 55
 ERROR - 2022-05-20 03:48:28 --> Severity: Notice --> Undefined variable: listLokasi /application/application/modules/rpt/views/v_infra.php 55
 ERROR - 2022-05-20 03:48:28 --> Severity: Warning --> Invalid argument supplied for foreach() /application/application/modules/rpt/views/v_infra.php 55
+ERROR - 2022-05-20 06:39:12 --> 404 Page Not Found: 
+ERROR - 2022-05-20 06:39:13 --> 404 Page Not Found: /index
+ERROR - 2022-05-20 06:39:13 --> 404 Page Not Found: /index
+ERROR - 2022-05-20 06:39:14 --> 404 Page Not Found: /index
+ERROR - 2022-05-20 06:42:10 --> 404 Page Not Found: /index
+ERROR - 2022-05-20 06:42:10 --> 404 Page Not Found: /index
+ERROR - 2022-05-20 06:42:11 --> 404 Page Not Found: /index
+ERROR - 2022-05-20 06:42:11 --> 404 Page Not Found: /index
+ERROR - 2022-05-20 06:43:03 --> 404 Page Not Found: /index
+ERROR - 2022-05-20 06:43:03 --> 404 Page Not Found: /index
+ERROR - 2022-05-20 06:43:03 --> 404 Page Not Found: /index
